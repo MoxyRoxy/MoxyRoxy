@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MaeMae!
+# 👋 Hi, I'm Moxy!
 
 🎮 Gamer meets code – game developer & machine learning enthusiast  
 🛠️ Tinkering with `Unity`, `Python`, `C#`, and single-board chaos (Raspberry Pi)  
